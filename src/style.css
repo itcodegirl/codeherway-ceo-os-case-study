@@ -79,6 +79,20 @@ h1 {
   transform: translateY(-2px);
 }
 
+.cs-back {
+  margin-bottom: 24px;
+}
+
+.cs-back a {
+  color: rgba(255, 255, 255, 0.6);
+  text-decoration: none;
+  font-size: 0.85rem;
+}
+
+.cs-back a:hover {
+  color: white;
+}
+
 section {
   margin-bottom: 56px;
 }
